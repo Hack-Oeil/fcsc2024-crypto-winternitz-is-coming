@@ -13,7 +13,7 @@ Auteur : Maxime
 Origine : [Winternitz is coming](https://hackropole.fr/fr/challenges/crypto/fcsc2024-crypto-winternitz-is-coming/)
 
 
-Fichiers:
+Fichier:
 - [winternitz-is-coming.py](winternitz-is-coming.py)
 
 
